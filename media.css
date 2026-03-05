@@ -1,0 +1,67 @@
+@media screen and ( max-width: 600px){
+    
+.bg{
+    height:30vh;
+    background-image: url(img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+
+
+#textmovetop{
+    margin-top: 50px;
+
+}
+#p{
+    font-size: 10px;
+}
+
+}
+
+/* for tablet  */
+
+@media (width:768px){
+    .bg{
+    height:30vh;
+    background-image: url(img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+
+
+#textmovetop{
+    margin-top: 50px;
+
+}
+#p{
+    font-size: 10px;
+}
+
+}
+
+@media (width:1024px){
+
+    .bg{
+    height:30vh;
+    background-image: url(img/back.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: 50%;
+}
+
+
+
+#textmovetop{
+    margin-top: 50px;
+
+}
+#p{
+    font-size: 10px;
+}
+}
+
+
